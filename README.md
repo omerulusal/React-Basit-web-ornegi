@@ -2,7 +2,8 @@ RESULT:
 
 https://reactbasitwebsitesi.netlify.app/
 
-<img width="946" alt="eat1" src="https://user-images.githubusercontent.com/96357374/217941889-7cb1d141-7a4c-419e-97f6-fcb033588b5b.png">
+
+![simple web](https://user-images.githubusercontent.com/96357374/224403956-8053aa1e-08ca-47dc-8607-505c2080a03e.png)
 
 <img width="941" alt="eat2" src="https://user-images.githubusercontent.com/96357374/217941911-3301af15-56c6-414f-b5c1-ce596a740d97.png">
 
